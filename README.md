@@ -206,7 +206,8 @@ http://localhost:8080
 
 # 📸 Screenshots
 
-_Add screenshots of your UI here._
+<img width="1279" height="678" alt="Screenshot 2026-08-03 131233" src="https://github.com/user-attachments/assets/98a701fa-2a43-4efc-b9ce-70e2b6a9d246" />
+
 
 ---
 
